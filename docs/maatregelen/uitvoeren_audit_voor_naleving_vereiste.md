@@ -69,6 +69,18 @@ levenscyclus:
 # vul hier de bouwblokken in die horen bij deze maatregel
 bouwblok: 
 - publieke-inkoop
+- 
+# vul hier de rollen in die zijn betrokken bij deze maatregel
+- proceseigenaar
+- behoeftesteller
+- data-scientist
+- ethicus
+- privacy-officer
+- security-officer
+- inkoopadviseur
+- contractbeheerder
+- aanbestedingsjurist
+  
 hide:
 - navigation
 ---
