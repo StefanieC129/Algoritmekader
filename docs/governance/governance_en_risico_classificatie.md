@@ -4,7 +4,7 @@ summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/bank
 ---
 
-Er is verschil in de vereisten en maatregelen die nodig zijn afhankelijk van het type risico en impact van algoritmen. Meer risicovolle AI vraagt om meer uitgebreide processen, en dus een meer uitgebreide governance. 
+Er is verschil in de vereisten en maatregelen die nodig zijn afhankelijk van het type risico en impact van algoritmen. Hoe risicovoller het AI-systeem, hoe uitgebreider de processen dienen te zijn en dus hoe uitgebreider de governance. 
 
 De gemeente Rotterdam kiest ervoor om de algoritme en AI governance alleen in te zetten bij hoog-risico (EU?) en AI-toepassingen. Deze risicoclassificatie volgt de AI verordening [bron?? Of is dit juist niet?]. Voor laag-risico toepassingen geldt de standaard governance van de gemeente: de informatiebeveiligings- en privacy governance (Rekenkamer Rotterdam, 2024, p.71). Tabel 1 geeft inzicht in verschillende typen algoritmen en AI-toepassingen. 
 
