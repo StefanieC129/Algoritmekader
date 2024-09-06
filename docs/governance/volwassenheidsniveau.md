@@ -4,9 +4,9 @@ summary: Hier staat een korte samenvatting over dit onderwerp
 icon: material/bank
 ---
 
-Om tot een passende AI-governance voor een organisatie te komen, moet eerst worden vastgesteld waar een organisatie zich momenteel bevindt op dit gebied. Dit wordt het bepalen van het zogenaamde 'volwassenheidsniveau' genoemd. Op basis hiervan kunnen vervolgstappen worden gedefinieerd waar een organisatie aan kan gaan werken om zich naar de volgende niveaus voor AI-governance door te ontwikkelen. 
+Om te komen tot een passende AI en algoritme governance voor een organisatie, moet eerst worden vastgesteld wat op dit moment al is ingericht op het gebied van IT-governance, data governance en organisatie governance, evenals op het gebied van AI en algoritmes. Dit wordt het bepalen van het zogenaamde 'volwassenheidsniveau' genoemd. Op basis hiervan kunnen vervolgstappen worden gedefinieerd waar een organisatie aan kan gaan werken om zich naar de volgende niveaus voor AI-governance door te ontwikkelen. 
 
-Er zijn verschillende volwassenheidsmodellen hiervoor te gebruiken. Enkele voorbeelden zijn hieronder beschreven. Deze modellen richten zich niet altijd expliciet op AI governance maar kijken naar AI in de organisatie in brede zin of naar “AI ethics”. AI governance is echter een onderdeel van deze modellen.
+Er zijn verschillende volwassenheidsmodellen hiervoor te gebruiken. Enkele voorbeelden zijn hieronder beschreven. Deze modellen richten zich niet altijd expliciet op AI en algoritme governance maar kijken naar AI en algoritmes in de organisatie in brede zin of naar “AI ethics”. Governance is echter altijd een onderdeel van deze modellen.
 
 ## Voorbeelden van volwassenheidsmodellen
 
@@ -38,8 +38,8 @@ Nadat een volwassenheidsniveau van de AI-governance is vastgesteld kunnen hier c
 ## Acties/vragen:
 *	Breng in kaart wat er al is m.b.t. IT-governance met één van de volwassenheidsmodellen.
     -	Is de organisatie volwassen? Vallen AI en algoritmes al ergens onder? 
-    -	Breng deze informatie naar je bestuur met het verzoek duidelijkheid te krijgen hoe AI-governance belegt zou moeten worden. (De AI-verordening vraagt om belegde verantwoordelijkheden m.b.t. AI en algoritmes.)
-*	Er is verschil in datageletterdheid van ambtenaren. Benodigde skills en expertise (die mogelijk ontbreken) is van belang bij het invullen van rollen en verantwoordelijkheden.
+    -	Breng deze informatie naar het bestuur met het verzoek duidelijkheid te krijgen hoe AI en algoritme governance belegd zou moeten worden. (De AI-verordening vraagt om belegde verantwoordelijkheden m.b.t. AI en algoritmes.)
+*	Er is verschil in datageletterdheid van ambtenaren. Benodigde skills en expertise (die mogelijk ontbreken) zijn van belang bij het invullen van rollen en verantwoordelijkheden.
 
  
 
